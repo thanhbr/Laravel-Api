@@ -1,0 +1,30 @@
+<?php
+return [
+    /*default*/
+    'keyword'           => 'Từ khóa',
+    'export'            => 'Xuất',
+    'export-excel'      => 'Xuất Excel',
+    'import'            => 'Nhập',
+    'import-excel'      => 'Nhập Excel',
+    'create'            => 'Tạo mới',
+    'show'              => 'Hiện chi tiết',
+    'edit'              => 'Chỉnh sửa',
+    'update'            => 'Cập nhật',
+    'destroy'           => 'Xóa',
+    'delete'            => 'Xóa',
+    'sum'               => 'Tổng',
+    'type_id'           => 'Loại',
+    'status_id'         => 'Trạng thái',
+    'email'             => 'Hộp thư',
+    'password'          => 'Mật khẩu',
+    'confirm-password'  => 'Xác nhận mật khẩu',
+    /*customize*/
+    'admin'             => 'Quản trị viên',
+    'supplier'          => 'Nhà cung cấp',
+    'operationmanager'  => 'Điều hành',
+    'sale'              => 'Nhân viên kinh doanh',
+    'shop'              => 'Cửa hàng',
+    'customer'          => 'Khách hàng',
+    'category_id'       => 'Danh mục',
+    'brand_id'          => 'Thương hiệu',
+];
